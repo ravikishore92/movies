@@ -25,7 +25,7 @@ let v;
             if(win(r,c))
             {
                 
-             alert("Winner is Pyaler 2");
+             alert("Winner is Player 2");
             }
             else if(draw())
             {
